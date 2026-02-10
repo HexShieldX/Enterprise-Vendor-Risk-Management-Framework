@@ -1,9 +1,10 @@
 🚀 Enterprise Vendor Risk Management (GRC) Framework
+
 A complete, end-to-end simulation of an enterprise Third-Party Risk Management (TPRM) program, including automated risk registers, dashboards, governance artifacts, and compliance alignment with ISO 27001 & NIST CSF.
 
 📌 Project Overview
-This repository demonstrates a real-world Vendor Risk Management program, showcasing how risk is designed, assessed, and operationalized across an organization.
 
+This repository demonstrates a real-world Vendor Risk Management program, showcasing how risk is designed, assessed, and operationalized across an organization.
 It includes:
 
 Framework Design (Deliverable 1): Enterprise-aligned vendor risk policies & methodology
@@ -14,6 +15,7 @@ Executive Dashboard (Deliverable 5): Visualized high-risk vendors, evidence gaps
 This project is designed to mirror real enterprise GRC operations, not just academic exercises.
 
 ⚙️ Key Features & Capabilities
+
 1️⃣ Automated Risk Calculations
 Factor-based Inherent → Control → Residual Risk
 Auto-generated risk ratings and review deadlines
@@ -38,7 +40,9 @@ Audit-ready structure for internal & external assessments
 Implemented in Microsoft Excel
 Fully integrable with Power BI, SharePoint, and Power Automate
 Scalable to enterprise-level GRC platforms without redesign
+
 🗂️ Repository Structure
+
 Enterprise-Vendor-Risk-Management-GRC-Framework/
 
 │ ├─ docs/
@@ -60,15 +64,22 @@ Enterprise-Vendor-Risk-Management-GRC-Framework/
 Easy navigation ensures reviewers and recruiters can instantly access key deliverables.
 
 📄 Standards & Compliance
+
 ISO 27001: Information Security Management
 NIST CSF: Cybersecurity Framework for Risk Management
 TPRM Best Practices: Factor-based scoring, control effectiveness, governance accountability
+
 🚀 How to Use This Repository
+
 Open HTML, PDF, and Excel files in /docs
 Explore Automated Risk Register with inherent → residual risk logic
 Review Executive Dashboard for high-risk vendors, overdue items, and evidence gaps
 Reference Framework & Governance Artifacts for enterprise TPRM simulation
+
 👤 Author
+
 Arshman Abbas — Designed and implemented full TPRM framework, automated risk register, dashboards, and governance artifacts
+
 📜 License
+
 This project is licensed under the MIT License — see LICENSE for details.
