@@ -20,22 +20,27 @@ This project is designed to mirror real enterprise GRC operations, not just acad
 Factor-based Inherent → Control → Residual Risk
 Auto-generated risk ratings and review deadlines
 Overdue alerts for actionable oversight
+
 2️⃣ Control Effectiveness Evaluation
 Design Effectiveness and Operating Effectiveness scoring
 Audit-defensible residual risk calculation
 Industry-standard methodology for ISO/SOC alignment
+
 3️⃣ Governance & Risk Ownership
 Risk Owner, Business Owner, Approver columns
 Clear accountability & decision-making (RACI-aligned)
 Transforms Excel into a governance tool, not just a tracker
+
 4️⃣ Executive Dashboards & Reporting
 Highlights high-risk vendors and critical remediation items
 Flags missing evidence and upcoming review deadlines
 Designed for CISO, Risk Committee, and senior management
+
 5️⃣ Audit & Compliance Readiness
 Evidence references: policies, certifications, and reports
 Tracks ISO 27001, SOC 2, and regulatory alignment
 Audit-ready structure for internal & external assessments
+
 6️⃣ Tooling & Scalability
 Implemented in Microsoft Excel
 Fully integrable with Power BI, SharePoint, and Power Automate
